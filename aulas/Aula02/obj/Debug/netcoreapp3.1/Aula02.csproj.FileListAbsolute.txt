@@ -1,0 +1,11 @@
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.exe
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.deps.json
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.json
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.runtimeconfig.dev.json
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\bin\Debug\netcoreapp3.1\Aula02.pdb
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\obj\Debug\netcoreapp3.1\Aula02.csprojAssemblyReference.cache
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfoInputs.cache
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\obj\Debug\netcoreapp3.1\Aula02.AssemblyInfo.cs
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\obj\Debug\netcoreapp3.1\Aula02.dll
+C:\Users\jgtom\OneDrive\Área de Trabalho\Cursos\C#\Aulas\Aula02\obj\Debug\netcoreapp3.1\Aula02.pdb
