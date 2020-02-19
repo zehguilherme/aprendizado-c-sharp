@@ -1,6 +1,10 @@
-# Aprendizados em C#
+<h1 align="center">
+  Aprendizados em C#
+</h1>
 
-Realização de cursos e outros aprendizados em C#.
+<p align="center">
+  Realização de cursos e outros aprendizados em C#
+</p>
 
 ## Cursos realizados:
 
